@@ -1,0 +1,13 @@
+ 
+ - baixando o Git
+ - criando uma conta no Github
+ - configurando uma chave ssh e sincronizando sua maquina a sua conta GitHub
+ - aprendendo comandos no Git
+ - configurando o Git
+ - criando repositorio
+ - editando arquivos para teste
+ - Git add do arquivo criado
+ - comando commit do arquivo
+ - comando pull do GitHub
+ - comando push para o GitHub
+ - enviando o arquivo para o GitHub (push)
